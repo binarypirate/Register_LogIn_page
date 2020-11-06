@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shanti Juniors</string>
+    <string name="have_already_account">Have already account! Sign in</string>
+    <string name="enter_your_name">Please enter your name</string>
+    <string name="enter_your_email">Please enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_number">Enter your mobile number</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="welcome_to_shanti">Welcome to shanti Juniors</string>
+    <string name="sign_up_to_continue">Sign up to continue !!</string>
+    <string name="register">register</string>
+    <string name="kolar_road">( Kolar Road )</string>
+    <string name="login">Log In</string>
+    <string name="have_not_account">Dont/t have account!! Sign up</string>
+</resources>
