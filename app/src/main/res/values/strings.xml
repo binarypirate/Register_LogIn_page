@@ -11,5 +11,6 @@
     <string name="register">register</string>
     <string name="kolar_road">( Kolar Road )</string>
     <string name="login">Log In</string>
+    <string name="please_fill_this_field">Please fill this field</string>
     <string name="have_not_account">Dont/t have account!! Sign up</string>
 </resources>
